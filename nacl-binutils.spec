@@ -24,7 +24,7 @@ ExclusiveArch: i686 x86_64
 Summary: A GNU collection of binary utilities
 Name: nacl-binutils%{?_with_debug:-debug}
 Version: 2.20.1
-Release: 1.git%{gitver}%{?dist}
+Release: 1.git%{gitver}%{?dist}.R
 License: GPLv3+
 Group: Development/Tools
 URL: http://sources.redhat.com/binutils
